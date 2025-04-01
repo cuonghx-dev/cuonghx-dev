@@ -1,7 +1,8 @@
 - OSes: MacOS, Ubuntu
 - Programming Languages: Javascript/Typescript, Solidity, Rust(learning)
 - Chains: EVM, TON, Solana
-- Frameworks: Reactjs/Nestjs, Hardhat
+- Frameworks: Reactjs/Nestjs, Hardhat, anchor(learning)
 - Libraries: Ethers/Viem, solana/web3.js, @ton
 - Infrastructure: Google Cloud, Docker
 - Tools: Git
+- AI (learning)
