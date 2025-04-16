@@ -1,7 +1,7 @@
 - OSes: MacOS, Ubuntu
-- Programming Languages: Javascript, Typescript, Solidity, Rust
-- Chains: EVM, TON, Solana
-- Frameworks: Reactjs, Nestjs, Hardhat, Anchor
+- Programming Languages: javascript, typescript, solidity, rust
+- Chains: evm, ton, solana
+- Frameworks: reactjs, nestjs, hardhat, anchor
 - Libraries: ethers, viem, solana/web3.js, @ton/ton
 - Infrastructure: gcp, docker
 - Tools: git
