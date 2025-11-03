@@ -2,7 +2,7 @@
 - Programming Languages: Javascript, Typescript, Solidity.
 - Chains: EVM
 - Frameworks: Reactjs, Nextjs, Nestjs, Hardhat
-- Libraries: Ethers, Viem, Solana/web3.js, @Ton/ton
+- Libraries: Ethers, Viem
 - Infrastructure: GCP, Docker
 - Tools: Git
 - AI: Cursor
