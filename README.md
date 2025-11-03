@@ -1,6 +1,6 @@
 - OSes: MacOS, Ubuntu
 - Programming Languages: Javascript, Typescript, Solidity.
-- Chains: EVM, TON --> learning in-progress: Solana 
+- Chains: EVM
 - Frameworks: Reactjs, Nextjs, Nestjs, Hardhat
 - Libraries: Ethers, Viem, Solana/web3.js, @Ton/ton
 - Infrastructure: GCP, Docker
