@@ -1,7 +1,7 @@
 - OSes: MacOS, Ubuntu
-- Programming Languages: Javascript, Typescript, Solidity. -->> learning in-progress: RUST, Go
+- Programming Languages: Javascript, Typescript, Solidity.
 - Chains: EVM, TON --> learning in-progress: Solana 
-- Frameworks: Reactjs, Nextjs, Nestjs, Hardhat --> learning in-progress: Anchor, Remix
+- Frameworks: Reactjs, Nextjs, Nestjs, Hardhat
 - Libraries: Ethers, Viem, Solana/web3.js, @Ton/ton
 - Infrastructure: GCP, Docker
 - Tools: Git
