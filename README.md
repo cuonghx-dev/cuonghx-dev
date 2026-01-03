@@ -1,7 +1,3 @@
-- OSes: MacOS, Ubuntu
-- Programming Languages: Javascript, Typescript, Solidity.
+- Programming Languages: JavaScript, Typescript, Solidity.
 - Chains: EVM
 - Frameworks: Reactjs, Nextjs, Nestjs, Hardhat
-- Infrastructure: GCP, Docker
-- Tools: Git
-- AI: Cursor
