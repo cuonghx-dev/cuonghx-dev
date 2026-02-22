@@ -1,3 +1,4 @@
 - Programming Languages: JavaScript, Typescript, Solidity.
 - Chains: EVM
 - Frameworks: Reactjs, Nextjs, Nestjs, Hardhat
+- AI
